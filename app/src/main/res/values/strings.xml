@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CMTPRG027</string>
+    <string name="tab_text_1">Test</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_picture">REMOVE THE ANDROID PICTURE</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB9aa_eFQy6yhAhA1F24_NccGra4yBEdOY</string>
+
+
+    <string name="action_sort">Sort List</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_clear">Clear List</string>
+    <string name="welcome">Welcome to this HR Project</string>
+    <string name="anthem">Play our Dutch anthem</string>
+
+
+    <string-array name="sports_array">   //BUILT AN ENTIRE SHOPPING LIST BUT THAT STOPPED WORKING
+        <item>Netherlands</item>         //SO I ADDED IN SOME AMUSEMENT
+        <item>Germany</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>SPAIN</item>
+        <item>GREECE</item>
+        <item>SWEDEN</item>
+    </string-array>
+
+   //THE MUSIC OPTON
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="currentlocation">Show my current location</string>
+    <string name="play">Play</string>
+    <string name="sliderHandler">sliderHandler</string>
+
+</resources>

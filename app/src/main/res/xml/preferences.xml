@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:id="@+id/imageoff"
+        android:defaultValue="true"
+        android:key="imageoffbutton"
+        android:summary="Adds or Removes the Android picture"
+        android:title="Display Android" />
+</PreferenceScreen>
